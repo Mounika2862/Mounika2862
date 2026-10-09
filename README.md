@@ -57,12 +57,7 @@ Software Engineer experienced in building and deploying AI-powered applications 
 
 ---
 
-## 🤖 Info AI Assistant
 
-An integrated personal AI assistant with:
-- **Typo-Tolerant Semantic Engine:** Powered by Levenshtein distance fuzzy matching for queries like role, graduation, projects, and contact info.
-- **Dynamic Information Cards:** Instant one-click redirect cards for LinkedIn, GitHub, and direct email composition.
-- **Context-Aware Intent Routing:** Strictly delivers concise, accurate information without irrelevant data dumps.
 
 ---
 
@@ -75,23 +70,7 @@ An integrated personal AI assistant with:
 
 ---
 
-## 💻 Local Development Setup
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/Mounika2862/Portfolio-.git
-
-# 2. Navigate to project directory
-cd Portfolio-
-
-# 3. Install dependencies
-npm install --legacy-peer-deps
-
-# 4. Start local development server
-npm run dev
-```
-
-The application will be accessible at `http://localhost:3000`.
 
 ---
 
