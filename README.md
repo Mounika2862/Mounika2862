@@ -64,9 +64,7 @@ Software Engineer experienced in building and deploying AI-powered applications 
 ## 🎓 Education & Professional Experience
 
 - **Integrated M.Tech in Software Engineering** — *VIT Chennai (August 2021 – May 2026)* `[Completed]`
-- **Assistant Professor (DBMS & MySQL)** — *Six Phrase Edutech Pvt. Ltd. (July 2026 – Present)*
-- **Software Developer Intern** — *TechCiti Software Consulting Pvt. Ltd. (May 2024 – July 2024)*
-- **Data Analyst Intern** — *Codegnan IT Solutions Pvt. Ltd. (July 2023 – September 2023)*
+
 
 ---
 
