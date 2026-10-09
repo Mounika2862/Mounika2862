@@ -8,12 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mounika2862)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mounikaainamilli@gmail.com)
 
-<p align="center">
-  <b>Assistant Professor (DBMS & MySQL)</b> at Six Phrase Edutech · VSB Engineering College, Coimbatore<br/>
-  <b>Integrated M.Tech in Software Engineering</b> · VIT Chennai (Completed)
-</p>
 
-</div>
 
 ---
 
