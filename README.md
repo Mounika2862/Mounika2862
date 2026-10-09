@@ -8,7 +8,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mounika2862)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mounikaainamilli@gmail.com)
 
+<p align="center">
 
+  <b>Integrated M.Tech in Software Engineering</b> · VIT Chennai (Completed)
+</p>
+
+</div>
 
 ---
 
@@ -52,7 +57,12 @@ Software Engineer experienced in building and deploying AI-powered applications 
 
 ---
 
+## 🤖 Info AI Assistant
 
+An integrated personal AI assistant with:
+- **Typo-Tolerant Semantic Engine:** Powered by Levenshtein distance fuzzy matching for queries like role, graduation, projects, and contact info.
+- **Dynamic Information Cards:** Instant one-click redirect cards for LinkedIn, GitHub, and direct email composition.
+- **Context-Aware Intent Routing:** Strictly delivers concise, accurate information without irrelevant data dumps.
 
 ---
 
