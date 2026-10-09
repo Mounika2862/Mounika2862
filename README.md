@@ -61,7 +61,7 @@ Software Engineer experienced in building and deploying AI-powered applications 
 
 ---
 
-## 🎓 Education & Professional Experience
+## 🎓 Education 
 
 - **Integrated M.Tech in Software Engineering** — *VIT Chennai (August 2021 – May 2026)* `[Completed]`
 
